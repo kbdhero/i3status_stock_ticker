@@ -1,2 +1,2 @@
 # i3status_stock_ticker
-<img src="hyphy.link/VIGM7">
+<img src="http://i.imgur.com/yG3TdC9.gif?1">
